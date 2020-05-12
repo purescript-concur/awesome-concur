@@ -1,9 +1,9 @@
 <h1 align="center">
   Awesome Concur
-  <p align="center">
-    A curated list of awesome Concur resources and related projects.
-  </p>
 </h1>
+<p align="center">
+  A curated list of awesome Concur resources and related projects.
+</p>
 <p align="center">
    <img src="docs/logo.png" height="100">
 </p>
