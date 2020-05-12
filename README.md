@@ -15,6 +15,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 - [Libraries](#libraries)
 - [Projects](#projects)
 - [Documentation](#documentation)
+- [Related](#related)
 - [Miscellaneous](#miscellaneous)
 
 ## Integrations
@@ -31,6 +32,15 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 
 ## Documentation
 - [concur-documentation](https://github.com/ajnsit/concur-documentation) - Official documentation.
+
+## Related
+### These are libraries I have found that seem to be atleast tangentially related to the Concur model.
+- [synchron](https://github.com/pkamenarsky/synchron) - Synchronous programming in Haskell.
+- [crank](https://github.com/bikeshaving/crank) - JSX-driven components with functions, promises and generators.
+- [flowponent] (https://github.com/jviide/flowponent) - Flows for Javascript.
+- [presto] (https://github.com/juspay/purescript-presto) - Write apps like mathematical equations.
+- [imperative] (https://github.com/jhp/imperative) - Structured flows for Javascript.
+- [sneathlane] (https://github.com/jhp/sneathlane-haste) - Haskell UI library for canvas.
 
 ## Miscellaneous
 
