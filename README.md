@@ -29,6 +29,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 ## Libraries
 
 ## Projects
+- [Unison Code Explorer](http://unison.readvar.com) is built with concur-replica. [Source](https://github.com/seagreen/unison-code-explorer).
 
 ## Documentation
 - [concur-documentation](https://github.com/ajnsit/concur-documentation) - Official documentation.
