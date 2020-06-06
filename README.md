@@ -45,6 +45,8 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 - [sneathlane](https://github.com/jhp/sneathlane-haste) - Haskell UI library for canvas.
 
 ## Miscellaneous
+### Research papers that refer to Concur
+- [Multiparty Session Type-safe Web Development with Static Linearity](https://arxiv.org/abs/1904.01287)
 
 ## Contributing
 Anyone who finds something interesting about Concur is welcome to submit a pull request to add it to our list!
