@@ -30,6 +30,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 
 ## Projects
 - [Unison Code Explorer](http://unison.readvar.com) is built with concur-replica. [Source](https://github.com/seagreen/unison-code-explorer).
+- [Scribble-Battleships](https://github.com/jonathanlking/scribble-battleships) is a multi party Battleships game written in PureScript-Concur using [Scribble protocol](http://www.scribble.org/) and websockets for communication. The paper [Multiparty Session Type-safe Web Development with Static Linearity](https://arxiv.org/abs/1904.01287) goes along with it.
 
 ## Documentation
 - [concur-documentation](https://github.com/ajnsit/concur-documentation) - Official documentation.
@@ -46,7 +47,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 
 ## Miscellaneous
 ### Research papers that refer to Concur
-- [Multiparty Session Type-safe Web Development with Static Linearity](https://arxiv.org/abs/1904.01287)
+- [Multiparty Session Type-safe Web Development with Static Linearity](https://arxiv.org/abs/1904.01287). The source code accompanying this paper can be found [here](https://github.com/jonathanlking/scribble-battleships).
 
 ## Contributing
 Anyone who finds something interesting about Concur is welcome to submit a pull request to add it to our list!
