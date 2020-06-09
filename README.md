@@ -35,6 +35,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 ## Documentation
 - [concur-documentation](https://github.com/ajnsit/concur-documentation) - Official documentation.
 - [Designing a GUI framework](https://potocpav.github.io/programming/2020/05/01/designing-a-gui-framework.html) - An article introducing the Concur model to beginners.
+- [Drawing Fractals with Purescript](https://blog.drewolson.org/drawing-fractals-with-purescript) - An article demonstrating using Concur to draw SVG animations.
 
 ## Related
 ### These are libraries I have found that seem to be atleast tangentially related to the Concur model.
