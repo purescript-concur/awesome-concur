@@ -19,7 +19,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 - [Miscellaneous](#miscellaneous)
 
 ## Integrations
-- [purescript-concur](https://github.com/purescript-concur) - Purescript version, React, and other bindings.
+- [purescript-concur](https://github.com/purescript-concur) - Purescript version, with bindings for React, halogen-vdom, and others.
 - [concur-haskell](https://github.com/ajnsit/concur) - Haskell version. React, and Virtual-Dom bindings.
 - [concur-replica](https://github.com/pkamenarsky/concur-replica) - Haskell version. Replica bindings.
 - [concur-static](https://github.com/pkamenarsky/concur-static) - Haskell version. Static UI generator.
