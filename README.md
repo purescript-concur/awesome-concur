@@ -27,6 +27,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 - [python-concur](https://github.com/potocpav/python-concur) - Python version.
 
 ## Libraries
+- [purescript-concur-morphdom](https://github.com/jmars/purescript-concur-morphdom) - Purescript Concur Morphdom backend
 
 ## Projects
 - [Unison Code Explorer](http://unison.readvar.com) is built with concur-replica. [Source](https://github.com/seagreen/unison-code-explorer).
