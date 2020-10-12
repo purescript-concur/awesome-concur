@@ -33,6 +33,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 - [Unison Code Explorer](http://unison.readvar.com) is built with concur-replica. [Source](https://github.com/seagreen/unison-code-explorer).
 - [Scribble-Battleships](https://github.com/jonathanlking/scribble-battleships) is a multi party Battleships game written in PureScript-Concur using [Scribble protocol](http://www.scribble.org/) and websockets for communication. The paper [Multiparty Session Type-safe Web Development with Static Linearity](https://arxiv.org/abs/1904.01287) goes along with it.
 - [TopHat - Task Oriented Programming](https://github.com/timjs/tophat-haskell). TopHat is a formalisation of Task Oriented Programming as described in the [tophat paper](https://github.com/timjs/tophat/blob/ppdp2019/main.pdf). This is the Haskell implementation of the language by the author of the paper and uses Concur.
+- [Metajelo -  A METAdata package for Journals to support External Linked Objects](https://github.com/labordynamicsinstitute/metajelo) by the [Labor Dynamics Institute at Cornell](https://www.ilr.cornell.edu/labor-dynamics-institute). The [UI editor for Metajelo](https://github.com/labordynamicsinstitute/metajelo-ui) is built using Purescript-concur.
 
 ## Documentation
 - [concur-documentation](https://github.com/ajnsit/concur-documentation) - Official documentation.
