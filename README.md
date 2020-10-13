@@ -40,6 +40,10 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 - [Designing a GUI framework](https://potocpav.github.io/programming/2020/05/01/designing-a-gui-framework.html) - An article introducing the Concur model to beginners.
 - [Drawing Fractals with Purescript](https://blog.drewolson.org/drawing-fractals-with-purescript) - An article demonstrating using Concur to draw SVG animations.
 
+## Examples and Demos
+- [purescript-concur-adventure](https://github.com/bbarker/purescript-concur-adventure) - Choose-your-own adventure demo using PureScript-Concur. 
+  Also makes use of GitHub Actions [with Nix](https://github.com/marketplace/actions/install-nix) to build and deploy a live demo to GitHub pages.
+
 ## Related
 ### These are libraries I have found that seem to be atleast tangentially related to the Concur model.
 - [synchron](https://github.com/pkamenarsky/synchron) - Synchronous programming in Haskell.
