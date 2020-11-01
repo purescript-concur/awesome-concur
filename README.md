@@ -37,7 +37,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 - [purescript-concur-adventure](https://github.com/bbarker/purescript-concur-adventure) - Choose-your-own adventure demo using PureScript-Concur. 
   Also makes use of GitHub Actions [with Nix](https://github.com/marketplace/actions/install-nix) to build and deploy a live demo to GitHub pages.
 - [The Round Table](https://theroundtable.fun/) is an online implementation of the game [Avalon](https://boardgamegeek.com/boardgame/128882/resistance-avalon). It is built using Concur-replica. [Source](https://github.com/yunze-chia/the-round-table).
-- [Lunar Cast](https://lunarcast.github.io/lunarflow/) is a Lambda Calculus Visualiser built with Purescript and Concur. [Source](https://github.com/lunarcast/lunarflow).
+- [Lunarflow](https://lunarcast.github.io/lunarflow/) is a Lambda Calculus Visualiser built with Purescript and Concur. [Source](https://github.com/lunarcast/lunarflow).
 
 ## Documentation
 - [concur-documentation](https://github.com/ajnsit/concur-documentation) - Official documentation.
