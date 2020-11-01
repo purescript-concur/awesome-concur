@@ -13,7 +13,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 ## Contents
 - [Integrations](#integrations)
 - [Libraries](#libraries)
-- [Projects](#projects)
+- [Projects Using Concur](#projects-using-concur)
 - [Documentation](#documentation)
 - [Related](#related)
 - [Miscellaneous](#miscellaneous)
@@ -29,7 +29,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 ## Libraries
 - [purescript-concur-morphdom](https://github.com/jmars/purescript-concur-morphdom) - Purescript Concur Morphdom backend
 
-## Projects
+## Projects Using Concur
 - [Unison Code Explorer](http://unison.readvar.com) is built with concur-replica. [Source](https://github.com/seagreen/unison-code-explorer).
 - [Scribble-Battleships](https://github.com/jonathanlking/scribble-battleships) is a multi party Battleships game written in PureScript-Concur using [Scribble protocol](http://www.scribble.org/) and websockets for communication. The paper [Multiparty Session Type-safe Web Development with Static Linearity](https://arxiv.org/abs/1904.01287) goes along with it.
 - [TopHat - Task Oriented Programming](https://github.com/timjs/tophat-haskell). TopHat is a formalisation of Task Oriented Programming as described in the [tophat paper](https://github.com/timjs/tophat/blob/ppdp2019/main.pdf). This is the Haskell implementation of the language by the author of the paper and uses Concur.
@@ -37,7 +37,7 @@ Concur is a UI framework, for a variety of platforms, that explores an entirely 
 - [purescript-concur-adventure](https://github.com/bbarker/purescript-concur-adventure) - Choose-your-own adventure demo using PureScript-Concur. 
   Also makes use of GitHub Actions [with Nix](https://github.com/marketplace/actions/install-nix) to build and deploy a live demo to GitHub pages.
 - [The Round Table](https://theroundtable.fun/) is an online implementation of the game [Avalon](https://boardgamegeek.com/boardgame/128882/resistance-avalon). It is built using Concur-replica. [Source](https://github.com/yunze-chia/the-round-table).
-
+- [Lunar Cast](https://lunarcast.github.io/lunarflow/) is a Lambda Calculus Visualiser built with Purescript and Concur. [Source](https://github.com/lunarcast/lunarflow).
 
 ## Documentation
 - [concur-documentation](https://github.com/ajnsit/concur-documentation) - Official documentation.
